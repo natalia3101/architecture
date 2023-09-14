@@ -16,3 +16,6 @@ ISO/IEC/IEEE 29148:2018 Systems and software engineering — Life cycle processe
 
 # Homework 2
 Задание 1. Закончить разработку паттерна Фабричный метод
+
+# Homework 6
+Доменную модель реализовать в виде реляционной ER диаграммы для БД для: клиники, доктора и услуги.
